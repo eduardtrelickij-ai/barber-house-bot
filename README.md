@@ -35,3 +35,5 @@ Telegram → Google Apps Script → Google Sheets
 ## Автор
 
 Разработчик Telegram-ботов и AI-автоматизаций.
+
+p.s я использовал только бесплатные инструменты 
